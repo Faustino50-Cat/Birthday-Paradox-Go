@@ -1,5 +1,6 @@
 # Birthday-Paradox-Go
 Simple Birthday Paradox calculator
 
-Build it and execute
+Build and execute it
+
 Nothing else
